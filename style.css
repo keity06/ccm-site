@@ -5,7 +5,7 @@
 
 .cabecalho {
     background-color: hsl(139, 71%, 20%);
-    color: rgb(137, 173, 125);
+    color: rgb(125, 177, 108);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -70,7 +70,7 @@
 </html>
 .escola{
     background-image: linear-gradient(hsl(130, 44%, 57%),#2c744a);
-    color:green;
+    color:width;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -101,7 +101,7 @@
     padding: 16px 0;
 }
 .rodape{
-    background-color: rgb(76, 201, 113);
+    background-color: rgb(135, 221, 161);
     text-align: center;
 }
 
